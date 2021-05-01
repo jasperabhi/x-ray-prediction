@@ -1,0 +1,31 @@
+.box
+{
+    width: 40%;
+    border: 2px solid red;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding: 15px;
+    border-radius: 25px 0px 25px 0px;
+    background: #DAF7A6;
+}
+.botton
+{
+    margin-top: 10px;
+    margin-left: 60px;
+}
+#Message , #error , #numloco
+{
+    color: red;
+}
+.nam
+{
+    color: rosybrown;
+    font-family: Algerian;
+}
+img {
+      max-width: 300px;
+      max-height: 300px;
+      min-width: 300px;
+      min-height: 300px;
+    }
